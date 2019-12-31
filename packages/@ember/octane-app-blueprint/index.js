@@ -26,7 +26,6 @@ module.exports = {
         modulePrefix: name,
         namespace,
         yarn: options.yarn,
-        welcome: options.welcome,
         emberSourceVersion: emberSource,
         emberCLI,
       };
